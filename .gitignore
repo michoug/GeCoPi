@@ -6,6 +6,8 @@
 *.o
 *.pm.tdy
 *.bs
+_Deparsed_XSubs.pm
+*.iml
 
 # Devel::Cover
 cover_db/
